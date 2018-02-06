@@ -1,0 +1,14 @@
+public static void main(String []args) 是死规定，没有为什么。
+[? ]是一种对象，自带.length
+所有方法都写成static的，可以在java的对象里面写过程式程序。
+String不是char[]，汉字也不是两个字节，”中文”.length()==2
+java.util.*是入门的必经之路，熟悉里面的List/Vector/Collections等常用工具类可以顺利解决大部分问题。
+switch在1.7之后可以用String类型(学校OJ是1.6，不支持)
+Integer.parseInt() ? Double.parseDouble()? String.valueOf() 是常见数据类型转换工具。
+System.out.format System.out.printf 用起来跟stdio.h的printf是一样的。
+String.format()可以快速高效的拼接字符串。
+String是个final类，不能继承，这是有意为之。
+OJ上做题只有Main这个类可以是public，其他类不能用public。
+new Scanner(System.in)这个操作只能做一次。
+scanner.next()之后如果当前输入位置在行尾，nextLine()将只能得到一个””。
+有的题用Scanner.nextLine()+String.split(” “)处理起来编码效率最高

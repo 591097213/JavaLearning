@@ -1,0 +1,18 @@
+util包
+lang包
+Math包
+BigInteger
+Integer
+BigDecimal
+Collections
+Double
+String
+常用工具类算法，如gcd等
+List
+ArrayList
+Iterator
+数据结构类
+正则表达式
+sc.nextline()与sc.next()有何区别。
+进制转化共有哪些方法Integer,BigInteger.toString...
+StringBuilder StringBuffer String 的区别
