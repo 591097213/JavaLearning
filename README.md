@@ -1,2 +1,4 @@
-# JavaLearning
-A Repo for My Java Learning
+# 关于
+
+之前学习Java的时候记录的一些东西。等我有空了就整理！！！
+
